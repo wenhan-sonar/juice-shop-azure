@@ -1,4 +1,4 @@
-name: Sonar-scan
+name: Sonar-scan2local
 
 on:
   push:
